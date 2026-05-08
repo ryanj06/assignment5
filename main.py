@@ -1,8 +1,6 @@
-import os
-import sys
+def main():
+    print("Hello from assignment5!")
 
-x=1+2
-print( x )
 
-def foo(x,y,z):
-    pass
+if __name__ == "__main__":
+    main()
